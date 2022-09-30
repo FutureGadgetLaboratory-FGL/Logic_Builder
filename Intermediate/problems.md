@@ -20,3 +20,4 @@
 > Use:
 >> To take item from user and then placing at the beginning of the linked list,
 >> practice dynamic memory allocation
+### 6. Perform Bit Manipulation.
