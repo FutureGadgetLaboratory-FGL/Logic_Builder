@@ -1,11 +1,11 @@
-# 👥Contributing
+# 👥Contributing Guidelines
 
-For contributing, you need to know the basics of git and github. If you don't know any of those, then seek help from others or check the internet for setting up git environment on your device.
+For contributing, you need to know the basics of git and GitHub. If you don't know any of those, then seek help from others or check the internet for setting up git environment on your device.
 
 Ways of making contributions in this repository:
 
-- [Code Contributions](#Code-Contributions)
-- [Non-Code Contributions](#Non-Code-Contributions)
+- [Code Contributions](#code-contributions)
+- [Non-Code Contributions](#non-code-contributions)
 
 ## Add yourself in the official list of contributors (Optional)
 
@@ -15,7 +15,7 @@ Add the following block of code at the end of `CONTRIBUTORS.yaml` file:
 ```yaml
 - name: 
   surname: 
-  github username: 
+  GitHub username: 
   mail: 
   website: 
   comments: 
@@ -38,7 +38,7 @@ e.g. // Solved by XYZ
 ### Step 5: <br>
 Add the solution and save the file.
 ### Step 6: <br>
-#### Case 1: The problem was unsolved and the [issue] tag is present infront of the problem statement
+#### Case 1: The problem was unsolved and the [issue] tag is present in front of the problem statement
 - Replace the [issue] tag with the [solved: language_name] tag in `problems.md` file.<br>
 #### Case 2: The problem was already solved in some other language and[solved: language_name] tag is present in front of the problem statement<br>
 - Add the language name in which you solved the problem in the tag present in front of the problem statement. Eg: change [solved: language1, language2] to [solved: language1,language2,your_language]
