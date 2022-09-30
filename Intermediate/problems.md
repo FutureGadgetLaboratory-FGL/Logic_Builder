@@ -15,3 +15,8 @@
   *     *
 ```
 ### 4.	Write a program for Product of two matrices.
+### 5. Create a linked list 
+> Language - C (Preferably)
+> Use:
+>> To take item from user and then placing at the beginning of the linked list,
+>> practice dynamic memory allocation
