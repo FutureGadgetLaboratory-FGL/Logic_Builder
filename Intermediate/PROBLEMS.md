@@ -44,8 +44,8 @@
 > add (adds item to stack)
 > pop (remove item from stack)
 > show (shows all items in stack in tidy form)
-> clear (clears all stack items)
-# and the stack should be of definite length. Perform stack overflow and stack underflow.
+> clear (clears all stack items) <br>
+ and the stack should be of definite length. Perform stack overflow and stack underflow.
 
 
 
@@ -54,5 +54,5 @@
 > add (adds item to queue)
 > pop (remove item from queue)
 > show (shows all items in queue in tidy form)
-> clear (clears all queue items)
-# and the queue should be of definite length. Perform queue overflow and quere underflow.
+> clear (clears all queue items) <br>
+ and the queue should be of definite length. Perform queue overflow and quere underflow.
