@@ -16,7 +16,7 @@ language1, language2, etc. are the programming languages in which the questions 
 
 You can be the first one to solve the questions with the [issue] tag. To know more about contributing, check `contributing.md` file.
 
-## ⚠️Under Construction Repository Alert!!!
+## ⚠️Under Development Repository Alert!!!
 
 This repository was created on 27 September, 2022 for the Hacktoberfest 2022 and does not contain any practice problems in it as of now.
 
