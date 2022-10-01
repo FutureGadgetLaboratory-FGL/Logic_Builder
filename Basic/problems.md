@@ -44,4 +44,7 @@
 
 ### 15. Write a program that print True if the number is odd and False if the number is even.
 
-### 14. Write a program that given 3 numbers, a, b and c, print the roots of the equation a*x² + b*x + c = 0.
+### 16. Write a program that given 3 numbers, a, b and c, print the roots of the equation a*x² + b*x + c = 0.
+
+### 17. Write a program that accepts a number from a user and prints the factorial of that number
+(the range of the answer should be greater than 4294967295)
