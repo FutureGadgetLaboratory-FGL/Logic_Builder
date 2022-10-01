@@ -39,3 +39,9 @@
 
 ### 13. Write a program to copy content from one file to another.
 <sup>	[Language:C	Author:Bhumi54321]</sup>
+
+### 14. Write a program that given 2 numbers, n and k, calculate n to the power of k.
+
+### 15. Write a program that print True if the number is odd and False if the number is even.
+
+### 14. Write a program that given 3 numbers, a, b and c, print the roots of the equation a*x² + b*x + c = 0.
