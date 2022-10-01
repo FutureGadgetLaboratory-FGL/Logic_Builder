@@ -1,3 +1,10 @@
+/*
+Program to perform bit manipulation
+*/
+
+// Author : glitchy-coder-exe
+
+
 import java.util.*;
 
 public class #6 {
