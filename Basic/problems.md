@@ -29,3 +29,13 @@
 
 
 ### 10.	Input 5 digit numbers and calculate sum of its digits.
+
+
+### 11. Input two variables and swap them.
+	-> [Language:C  Author:Bhumi54321]
+	
+### 12. Input two variables and swap them using a function.
+	-> [Language:C  Author:Bhumi54321]
+
+### 13. Write a program to copy content from one file to another.
+	-> [Language:C  Author:Bhumi54321]
