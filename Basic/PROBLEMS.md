@@ -52,3 +52,5 @@
 ### 18. Write a program to input a number a user from the user and the digits of that number.
 
 ### 19. Write a program to print the palindrome of a string.
+
+### 20. Write a program to print the reverse of a number.
