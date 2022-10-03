@@ -10,7 +10,7 @@
 ### 4.	Input the side and calculate area of square. Area of square = side*side
 <sup>	[Language:C 	Author:hypernovaradiation]</sup>
 
-### 5.	Input radius and calculate area and circumference of circle.
+### 5.	Input radius and calculate area and circumference of circle. area of a circle = 3.14*radius*radius and circumference of circle = 2*3.14*radius
 <sup>	[Language:C	Author:hypernovaradiation]</sup>
 
 ### 6.	Input base and height and calculate area of triangle.
