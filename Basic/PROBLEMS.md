@@ -7,7 +7,7 @@
 ### 3.	Input length and breadth and calculate area of rectangle. Area of rectangle = length*breadth
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
 
-### 4.	Input the side and calculate area of square.
+### 4.	Input the side and calculate area of square. Area of square = side*side
 <sup>	[Language:C 	Author:hypernovaradiation]</sup>
 
 ### 5.	Input radius and calculate area and circumference of circle.
