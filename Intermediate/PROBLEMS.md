@@ -41,4 +41,5 @@ the queue should be of definite size which could deal with overflow as well as u
 ### 14. Write a program to merge two arrays.
 ### 15. Write a program to add two matrices.
 ### 16. Write a program to find the transpose of a matrix.
+### 17. Write a program to find the maximum number from an array of n numbers.
 
