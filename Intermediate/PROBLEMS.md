@@ -40,4 +40,5 @@ the queue should be of definite size which could deal with overflow as well as u
 ### 13. Write a program for linear search.
 ### 14. Write a program to merge two arrays.
 ### 15. Write a program to add two matrices.
+### 16. Write a program to find the transpose of a matrix.
 
