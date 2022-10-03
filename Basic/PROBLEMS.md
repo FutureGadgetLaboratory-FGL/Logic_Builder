@@ -49,4 +49,6 @@
 ### 17. Write a program that accepts a number from a user and prints the factorial of that number
 > (the range of the answer should be greater than 4294967295)
 
-### 18. Write a program to input a number from the user and the adds the digits of that number. 
+### 18. Write a program to input a number a user from the user and the digits of that number.
+
+### 19. Write a program to print the palindrome of a string.
