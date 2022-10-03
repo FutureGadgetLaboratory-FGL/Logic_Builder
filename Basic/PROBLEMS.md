@@ -83,3 +83,5 @@
 
 ### 28. Input radius of a sphere and calculate the volume of sphere.
 
+### 29. Input side and print the surface area of cube.
+
