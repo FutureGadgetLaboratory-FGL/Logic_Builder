@@ -55,4 +55,7 @@
 
 ### 20. Write a program to print the reverse of a number.
 
-### 21. Input side and print the area of the square.
+### 21. Input side of a square and print perimeter of the square.
+
+### 22. Input length, breadth and height and output the volume of the cuboid.
+
