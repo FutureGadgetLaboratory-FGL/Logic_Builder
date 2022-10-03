@@ -59,4 +59,4 @@
 
 ### 22. Input length, breadth and height and output the volume of the cuboid.
 
-### 23. Input the sides of a triangle and print the area of a triangle using heron's formula.
+### 23. Input the sides of a triangle and print the area of a triangle using heron's formula. heron's formula = (S*(S-A)*(S-B)*(S-C))^1/2 where S=(A+B+C)/2 and A,B and C are the sides of the triangle.
