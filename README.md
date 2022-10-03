@@ -18,11 +18,11 @@ You can be the first one to solve the questions with the [issue] tag. To know mo
 
 ## ⚠️Under Development Repository Alert!!!
 
-This repository was created on 27 September, 2022 for the Hacktoberfest 2022 and does not contain any practice problems in it as of now.
+This repository was created on 27 September, 2022 and does not contain any practice problems in it as of now.
 
-This October, everyone reading this README file is requested to contribute in this repository by adding questions or solutions to the questions given in `problems.md` file of each section in different languages.
+This year, everyone reading this README file is requested to contribute in this repository by adding questions or solutions to the questions given in `problems.md` file of each section in different languages.
 
-Problem statements and issues will be updated on a weekly basis throughout October, 2022... and even after that, this repository will be updated at least on a monthly basis.
+Problem statements and issues will be updated on a weekly basis throughout year 2022... and even after that, this repository will be updated at least on a monthly basis.
 
 So, everyone is requested to contribute and make this repository better day by day.
 
