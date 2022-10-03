@@ -1,7 +1,7 @@
 ### 1.	Input two numbers and print their sum.
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
 
-### 2.	Input principle amount, rate and time and calculate S.I. 
+### 2.	Input principle amount, rate and time and calculate S.I. S.I. = (Principle*Rate*Time)/100
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
 
 ### 3.	Input length and breadth and calculate area of rectangle
