@@ -54,3 +54,5 @@
 ### 19. Write a program to print the palindrome of a string.
 
 ### 20. Write a program to print the reverse of a number.
+
+### 21. Input side and print the area of the square.
