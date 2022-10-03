@@ -22,7 +22,7 @@
   > hra is 10% of bs. <br>
 
 
-### 8.	Input temperature in Fahrenheit and convert into Celsius.
+### 8.	Input temperature in Fahrenheit and convert into Celsius. fahrenheit = (celsius * 9/5) + 32
 
 
 ### 9.	Input two numbers and swap them.
