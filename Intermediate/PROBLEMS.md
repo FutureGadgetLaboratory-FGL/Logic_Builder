@@ -34,4 +34,5 @@ the stack should be of definite size which could deal with overflow as well as u
 > -> clear - for cleaning the queue
 the queue should be of definite size which could deal with overflow as well as underflow\
 ### 9. Write a program for bubble sort.
+### 10. Write a program for selection sort.
 
