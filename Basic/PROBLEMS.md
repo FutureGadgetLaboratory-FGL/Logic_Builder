@@ -59,3 +59,4 @@
 
 ### 22. Input length, breadth and height and output the volume of the cuboid.
 
+### 23. Input the sides of a triangle and print the area of a triangle using heron's formula.
