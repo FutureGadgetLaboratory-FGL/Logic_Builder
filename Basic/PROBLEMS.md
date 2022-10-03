@@ -64,3 +64,11 @@
 ### 24. Input radius and height of the cylinder and print its volume. volume of cylinder = 3.14*radius*radius*height
 
 ### 25. Write a program to enter radius and height and print the curved and total surface area of cylinder.
+
+### 26. Write a program to print the following pattern:
+```html
+*
+* *
+* * *
+* * * *
+```
