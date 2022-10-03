@@ -62,3 +62,5 @@
 ### 23. Input the sides of a triangle and print the area of a triangle using heron's formula. heron's formula = (S*(S-A)*(S-B)*(S-C))^1/2 where S=(A+B+C)/2 and A,B and C are the sides of the triangle.
 
 ### 24. Input radius and height of the cylinder and print its volume. volume of cylinder = 3.14*radius*radius*height
+
+### 25. Write a program to enter radius and height and print the curved and total surface area of cylinder.
