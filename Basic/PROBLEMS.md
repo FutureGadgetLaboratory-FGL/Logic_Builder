@@ -48,3 +48,5 @@
 
 ### 17. Write a program that accepts a number from a user and prints the factorial of that number
 > (the range of the answer should be greater than 4294967295)
+
+### 18. Write a program to input a number a user from the user and the digits of that number. 
