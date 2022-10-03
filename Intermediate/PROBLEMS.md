@@ -37,4 +37,5 @@ the queue should be of definite size which could deal with overflow as well as u
 ### 10. Write a program for selection sort.
 ### 11. Write a program for insertion sort.
 ### 12. Write a program for binary search.
+### 13. Write a program for linear search.
 
