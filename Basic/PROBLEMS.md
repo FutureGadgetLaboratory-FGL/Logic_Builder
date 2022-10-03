@@ -13,7 +13,7 @@
 ### 5.	Input radius and calculate area and circumference of circle. area of a circle = 3.14*radius*radius and circumference of circle = 2*3.14*radius
 <sup>	[Language:C	Author:hypernovaradiation]</sup>
 
-### 6.	Input base and height and calculate area of triangle.
+### 6.	Input base and height and calculate area of triangle. area of a triangle = (1/2*base*height)
 
 
 ### 7.	If Basic salary is input through keyboard write a program to calculate gross salary. Where,
