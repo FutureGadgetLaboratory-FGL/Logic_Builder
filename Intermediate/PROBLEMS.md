@@ -32,5 +32,13 @@ the stack should be of definite size which could deal with overflow as well as u
 > -> pop - for delete an item from queue
 > -> show - for showing all the items in queue in a tidy way
 > -> clear - for cleaning the queue
-the queue should be of definite size which could deal with overflow as well as underflow
+the queue should be of definite size which could deal with overflow as well as underflow\
+### 9. Write a program for bubble sort.
+### 10. Write a program for selection sort.
+### 11. Write a program for insertion sort.
+### 12. Write a program for binary search.
+### 13. Write a program for linear search.
+### 14. Write a program to merge two arrays.
+### 15. Write a program to add two matrices.
+### 16. Write a program to find the transpose of a matrix.
 
