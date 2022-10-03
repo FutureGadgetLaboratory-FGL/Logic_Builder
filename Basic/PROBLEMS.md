@@ -81,7 +81,7 @@
 * 
 ```
 
-### 28. Input radius of a sphere and calculate the volume of sphere.
+### 28. Input radius of a sphere and print the volume of sphere. volume of sphere = (4/3)*3.14*(radius)^3
 
 ### 29. Input side and print the surface area of cube.
 
