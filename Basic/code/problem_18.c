@@ -42,5 +42,3 @@ int main()
     a=a/10;}
     return sum;
 }
-
-
