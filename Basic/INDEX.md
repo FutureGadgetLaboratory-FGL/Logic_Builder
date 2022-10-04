@@ -125,5 +125,5 @@
 ### 33. The Tremendous Tak-Tak Tree (Australian Informatics Olympiad programme!)
 ### 34. Triple Hunting (Australian Informatics Olympiad programme!)
 ### 35. Friendlist (Australian Informatics Olympiad programme!)
-### 36. Write a program to check whether a number is armstrong or not.
-
+### 36. Connect N ropes with minimum cost using Priority Queue
+### 37. Write a program to check whether a number is armstrong or not.
