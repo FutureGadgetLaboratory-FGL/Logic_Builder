@@ -6,6 +6,7 @@
 ### 5. The Tremendous Tak-Tak Tree (Australian Informatics Olympiad programme!)
 ### 6. Triple Hunting (Australian Informatics Olympiad programme!)
 ### 7. Friendlist (Australian Informatics Olympiad programme!)
+### 8. Connect N ropes with minimum cost using Priority Queue
 
 
 
