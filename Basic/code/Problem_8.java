@@ -1,5 +1,7 @@
 // 8. Input temperature in Fahrenheit and convert into Celsius.
 
+// Solved by NinjaMandy
+
 
 import java.util.Scanner;
 public class Main
