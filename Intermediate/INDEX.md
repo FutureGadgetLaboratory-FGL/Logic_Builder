@@ -51,3 +51,4 @@ the queue should be of definite size which could deal with overflow as well as u
 ### 18. Perform Binary Search using recursion.
 ### 19. Input two numbers and print their sum using functions.
 ### 20. Write a program to print the factorial of a number using functions.
+### 21. Write a program to find the position of a word in a sentence.
