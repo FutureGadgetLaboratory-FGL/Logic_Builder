@@ -1,4 +1,5 @@
 # 3. Input length and breadth and calculate area of rectangle
+# by Nitin Kumar
 
 
 l = int(input('Enter length:'))

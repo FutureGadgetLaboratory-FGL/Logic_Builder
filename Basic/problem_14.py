@@ -1,4 +1,5 @@
 # 14. Write a program that given 2 numbers, n and k, calculate n to the power of k.
+# by Nitin Kumar
 
 import math
 

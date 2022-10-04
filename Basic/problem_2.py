@@ -1,4 +1,5 @@
 # 2. Input principle amount, rate and time and calculate S.I.
+# by Nitin Kumar
 
 p = int(input('Enter principal amount:'))
 r = int(input('Enter rate of interest:'))

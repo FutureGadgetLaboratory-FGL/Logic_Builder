@@ -1,4 +1,5 @@
 # 10. Input 5 digit numbers and calculate sum of its digits.
+# by Nitin Kumar
 
 sum=0
 n1 = int(input('Enter a 5-digit number:'))

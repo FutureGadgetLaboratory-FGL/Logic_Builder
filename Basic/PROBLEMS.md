@@ -1,38 +1,46 @@
 ### 1.	Input two numbers and print their sum.
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 2.	Input principle amount, rate and time and calculate S.I. S.I. = (Principle*Rate*Time)/100
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 3.	Input length and breadth and calculate area of rectangle. Area of rectangle = length*breadth
 <sup>	[Language:C 	Author:glitchy-coder-exe]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 4.	Input the side and calculate area of square. Area of square = side*side
 <sup>	[Language:C 	Author:hypernovaradiation]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 5.	Input radius and calculate area and circumference of circle. area of a circle = 3.14*radius*radius and circumference of circle = 2*3.14*radius
 <sup>	[Language:C	Author:hypernovaradiation]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 6.	Input base and height and calculate area of triangle. area of a triangle = (1/2*base*height)
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 
 ### 7.	If Basic salary is input through keyboard write a program to calculate gross salary. Where,
   > da is 10% of bs. <br>
   > ta is 12% of bs. <br>
   > hra is 10% of bs. <br>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 
 ### 8.	Input temperature in Fahrenheit and convert into Celsius. fahrenheit = (celsius * 9/5) + 32
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 
 ### 9.	Input two numbers and swap them.
+<sup>	[Language:C	Author:Bhumi54321]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 
 ### 10.	Input 5 digit numbers and calculate sum of its digits.
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
-
-### 11. Input two variables and swap them.
-<sup>	[Language:C	Author:Bhumi54321]</sup>
 	
 ### 12. Input two variables and swap them using a function.
 <sup>	[Language:C	Author:Bhumi54321]</sup>
@@ -41,15 +49,24 @@
 <sup>	[Language:C	Author:Bhumi54321]</sup>
 
 ### 14. Write a program that given 2 numbers, n and k, calculate n to the power of k.
+<sup>	[Language:C	Author:Napalion]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 15. Write a program that print True if the number is odd and False if the number is even.
+<sup>	[Language:C	Author:Napalion]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 16. Write a program that given 3 numbers, a, b and c, print the roots of the equation a*x² + b*x + c = 0.
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 17. Write a program that accepts a number from a user and prints the factorial of that number
-> (the range of the answer should be greater than 4294967295)
+> (the program should find factorial till 20)
+<sup>	[Language:C	Author:raporaz03]</sup>
+<sup>	[Language:C	Author:hypernovaradiation]</sup>
+<sup>	[Language:Python 	Author:Nitin Kumar]</sup>
 
 ### 18. Write a program to input a number a user from the user and print the sum of digits of that number.
+<sup>	[Language:C	Author:hououinkyouma01]</sup>
 
 ### 19. Write a program to print the palindrome of a string.
 

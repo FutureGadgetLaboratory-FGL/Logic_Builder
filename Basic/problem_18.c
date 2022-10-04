@@ -2,7 +2,7 @@
 Write a program to input a number and print the sum of its digits.
 */
 
-// solved by hououinkyouma01
+// solved by hououinkyouma0
 
 #include<stdio.h>
 
