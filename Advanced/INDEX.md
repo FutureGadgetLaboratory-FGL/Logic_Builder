@@ -7,6 +7,7 @@
 ### 6. Triple Hunting (Australian Informatics Olympiad programme!)
 ### 7. Friendlist (Australian Informatics Olympiad programme!)
 ### 8. Connect N ropes with minimum cost using Priority Queue
+### 9. Make a sudoku solver.
 
 
 
