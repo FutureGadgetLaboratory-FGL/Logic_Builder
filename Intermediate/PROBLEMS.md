@@ -6,6 +6,7 @@
  * * *
 * * * *
 ```
+<sup>[Language:C Author:hypernovaradiation]</sup>
 ### 3. Display the pattern below
 ```html
   *     *
@@ -14,13 +15,16 @@
  * *   * *
   *     *
 ```
+<sup>[Language:Java Author:nam710]</sup>
 ### 4.	Write a program for Product of two matrices.
 ### 5. Create a linked list 
 > Language - C (Preferably)
 > Use:
 >> To take item from user and then placing at the beginning of the linked list,
 >> practice dynamic memory allocation
+<sup>[Language:C Author:HijazP]</sup>
 ### 6. Perform Bit Manipulation.
+<sup>[Language:Java Author:glitchy-coder-exe]</sup>
 ### 7. Write a program to perform stack operations. The program should contain the following functions -
 > -> add - for adding an item to stack
 > -> pop - for delete an item from stack
@@ -33,7 +37,9 @@ the stack should be of definite size which could deal with overflow as well as u
 > -> show - for showing all the items in queue in a tidy way
 > -> clear - for cleaning the queue
 the queue should be of definite size which could deal with overflow as well as underflow\
+<sup>[Language:CPP Author:Anmol-Prasad]</sup>
 ### 9. Write a program for bubble sort.
+<sup>[Language:Python Author:Pythonicboat]</sup>
 ### 10. Write a program for selection sort.
 ### 11. Write a program for insertion sort.
 ### 12. Write a program for binary search.
