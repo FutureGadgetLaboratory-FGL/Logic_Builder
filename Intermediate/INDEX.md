@@ -73,3 +73,9 @@ A B
 A B C
 A B C D
 ```
+<sup>[Language : C++ Author : coder-mohan]
+### 25. check if Array is Sorted and Rotated
+### 26. Peak Index in Mountain Array 
+### 27. Find First and Last Position of Elements in Sorted Array
+### 28. How many number are smaller than current number 
+### 29. Find all the duplicates in an array 
