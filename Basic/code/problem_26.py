@@ -1,12 +1,12 @@
-/*
+'''
 Write a program to Print the following pattern:
 *
 * *
 * * *
 * * * *
-*/
+'''
 
-// Solved by Ashani2529
+# Solved by Ashani2529
 n=4
 def pypart(n):
 	for i in range(0, n):
