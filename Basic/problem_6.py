@@ -1,4 +1,5 @@
 # 6. Input base and height and calculate area of triangle.
+# by Nitin Kumar
 
 
 b = int(input('Enter base of triangle:'))

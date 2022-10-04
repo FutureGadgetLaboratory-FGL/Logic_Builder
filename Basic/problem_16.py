@@ -1,5 +1,6 @@
 # 16. Write a program that given 3 numbers, a, b and c, 
 # print the roots of the equation ax² + bx + c = 0.
+# by Nitin Kumar
 
 import math
 

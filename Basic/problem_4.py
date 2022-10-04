@@ -1,4 +1,5 @@
 # 4. Input the side and calculate area of square.
+# by Nitin Kumar
 
 
 a = int(input('Enter side of square:'))

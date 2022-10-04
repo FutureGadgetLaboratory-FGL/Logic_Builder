@@ -1,4 +1,5 @@
 # 8. Input temperature in Fahrenheit and convert into Celsius.
+# by Nitin Kumar
 
 f = int(input('Enter tmperature in Fahrenheit:'))
 c = (f-32)*5/9

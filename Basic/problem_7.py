@@ -2,6 +2,7 @@
 #     da is 10% of bs.
 #     ta is 12% of bs.
 #     hra is 10% of bs.
+# by Nitin Kumar
 
 bs = float(input('Enter the Base Salary amount:'))
 gs = bs + (10/100)*bs + (12/100)*bs + (10/100)*bs
