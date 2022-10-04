@@ -106,5 +106,5 @@
 
 ### 30. Input radius and print the surface area of sphere. surface area of sphere = 4*(22/7)*radius*radius
 
-### 31. Input side and print the volume of cube. volume of cube = side X side X side
+### 31. Input side and print the volume of cube. volume of cube = side\*side\*side
 
