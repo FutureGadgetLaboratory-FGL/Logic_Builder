@@ -5,11 +5,11 @@ This repository is for those who seek to excel at programming logic and are will
 
 The problems are divided into three sections: Basic, Intermediate and Advanced
 
--> <b>BASIC</b> section contains the most basic problems like <u>hello world or add two numbers</u> and any beginner can easily study from these problems and can even contribute in this section. 
+-> <b>[BASIC](/Basic/INDEX.md)</b> section contains the most basic problems like <u>hello world or add two numbers</u> and any beginner can easily study from these problems and can even contribute in this section. 
 
--> <b>INTERMEDIATE</b> section contains problems like <u>pattern printing, recursion, string operations or maybe file handling etc.</u> Programmers with basic knowledge of any programming language can practice the questions given in this section and may contribute in it.
+-> <b>[INTERMEDIATE](/Basic/INDEX.md)</b> section contains problems like <u>pattern printing, recursion, string operations or maybe file handling etc.</u> Programmers with basic knowledge of any programming language can practice the questions given in this section and may contribute in it.
 
--> <b>ADVANCED</b> section contains some of the most famous problems for logic building like <u>N-queens problem or an automatic sudoku solver.</u> This is also the section where geeks-for-geeks problem of the day or problems from codechef can be uploaded. Contributing in this section is highly appreciated.
+-> <b>[ADVANCED](/Basic/INDEX.md)</b> section contains some of the most famous problems for logic building like <u>N-queens problem or an automatic sudoku solver.</u> This is also the section where geeks-for-geeks problem of the day or problems from codechef can be uploaded. Contributing in this section is highly appreciated.
 
 All sections contain a `problems.md` file where many practice questions are listed. If the solution is already present in the repository then the question starts with a [solved: language1, language2,...] tag, else, it starts with an [issue] tag.<br>
 language1, language2, etc. are the programming languages in which the questions has already been solved.
