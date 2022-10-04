@@ -1,4 +1,9 @@
-// C++ program to find first and last occurrences of a number in a given sorted array
+/*
+C++ program to find first and last occurrences of a number in a given sorted array
+*/
+
+// solved by anmolali5811
+
 #include <bits/stdc++.h>
 using namespace std;
 
