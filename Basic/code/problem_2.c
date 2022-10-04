@@ -28,3 +28,16 @@ int main(){
     printf("The simple interest is Rs. %.3f",si);
     return 0;
 }
+
+//Solved By ParthThaker007
+
+#include<stdio.h>
+int main(){
+    int p,r,t;
+    float si;
+    cin>>p>>r>>t;
+    si=(p*r*t)/100;
+    cout<<"Simple Interest is : "<<si;
+    return 0;
+}
+    
