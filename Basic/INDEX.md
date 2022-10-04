@@ -121,3 +121,5 @@
 <sup>[Lnaguage : C++ Author: coder-mohan]</sup><br>
 
 ### 34. Write a program to check whether a number is armstrong or not.
+
+### 35. Write a program to create fibonacci series.
