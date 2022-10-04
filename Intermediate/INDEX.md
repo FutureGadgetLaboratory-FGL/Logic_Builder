@@ -59,3 +59,10 @@ B B
 C C C
 D D D D
 ```
+### 23. Display the pattern below
+```html
+A
+B C
+D E F
+G H I J
+```
