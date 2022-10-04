@@ -108,3 +108,5 @@
 
 ### 31. Input side and print the volume of cube. volume of cube = side\*side\*side
 
+### 32. Input two numbers and print their product.
+
