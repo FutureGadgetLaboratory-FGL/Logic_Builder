@@ -110,7 +110,7 @@
 
 ### 32. Input two numbers and print their product.
 
-### 26. Write a program to print the following pattern:
+### 33. Write a program to print the following pattern:
 ```html
 1
 2 3
@@ -120,4 +120,4 @@
 
 <sup>[Lnaguage : C++ Author: coder-mohan]</sup><br>
 
-### 27. Write a program to check whether a number is armstrong or not.
+### 34. Write a program to check whether a number is armstrong or not.
