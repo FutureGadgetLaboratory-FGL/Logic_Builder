@@ -1,7 +1,9 @@
-// problem 30 
-//Input radius and print the surface area of sphere.
-//Using C program
+/* problem 30 
+Input radius and print the surface area of sphere.
+Using C program
+*/
 
+// Solved by ayushdhakal69
 
 #include <stdio.h>
 int main(int argc, char const *argv[])
