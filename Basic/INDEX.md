@@ -120,9 +120,18 @@
 
 <sup>[Lnaguage : C++ Author: coder-mohan]</sup><br>
 
-### 31. A Mindbending Scenario (Australian Informatics Olympiad programme!)
+### 31. A Mindbending Scenario (Australian Informatics Olympiad programme!) 
+### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=372
+
 ### 32. Counting to Infinity (Australian Informatics Olympiad programme!)
+### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=383
+
 ### 33. The Tremendous Tak-Tak Tree (Australian Informatics Olympiad programme!)
+### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=382 
+
 ### 34. Triple Hunting (Australian Informatics Olympiad programme!)
+### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple3&problemid=414
+
 ### 35. Friendlist (Australian Informatics Olympiad programme!)
+### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple3&problemid=416
 
