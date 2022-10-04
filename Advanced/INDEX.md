@@ -8,7 +8,14 @@
 ### 7. Friendlist (Australian Informatics Olympiad programme!)
 ### 8. Connect N ropes with minimum cost using Priority Queue
 ### 9. Make a sudoku solver.
-
-
-
-
+### 10. N-Queens
+### 11. Largest Rectangle in Histogram
+### 12. Trapping Rain Water
+### 13. Longest Valid Parentheses
+### 14. Wildcard Matching
+### 15. Sliding Window Maximum
+### 16. Find Median from Data Stream
+### 17. Minimum Window Substring
+### 18. Merge k Sorted Lists
+### 19. Largest Rectangle in Histogram
+### 20. Reverse Nodes in k-Group
