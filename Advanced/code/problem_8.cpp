@@ -1,3 +1,9 @@
+/*
+Connect N ropes with minimum cost using Priority Queue
+*/
+
+// Solved by anmolali5811
+
 #include <iostream>
 #include <queue>
 #include <vector>
