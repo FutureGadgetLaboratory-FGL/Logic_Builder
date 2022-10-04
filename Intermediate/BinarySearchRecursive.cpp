@@ -1,4 +1,8 @@
-// Binary Search Recursive
+/*
+Perform Binary Search using recursion.
+*/
+
+// Solved by vrup0408 
 
 #include<iostream>
 using namespace std;
