@@ -124,4 +124,4 @@
 
 ### 35. Write a program to create fibonacci series.
 
-### 36. Write a program to print the surface area of a cuboid.
+### 36. Write a program to print the surface area of a cuboid. surface area of cuboid = 2\*(l\*b+b\*h+h\*l)
