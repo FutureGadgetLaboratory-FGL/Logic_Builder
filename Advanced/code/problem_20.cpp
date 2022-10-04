@@ -1,3 +1,9 @@
+/*
+Reverse Nodes in k-Group
+*/
+
+// Solved by mohdaqib12011004
+
 #include<bits/stdc++.h>
 using namespace std;
 
