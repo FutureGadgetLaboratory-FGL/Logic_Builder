@@ -1,3 +1,9 @@
+/*
+Write a program to print the reverse of a number.
+*/
+
+// Solved by niladri2002
+
 #include <iostream>
 using namespace std;
 
