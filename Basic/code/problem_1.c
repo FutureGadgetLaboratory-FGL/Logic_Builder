@@ -26,3 +26,18 @@ int main(){
     printf("sum=%d",a+b);
     return 0;
 }
+
+
+
+
+//solved by ParthThaker007
+ 
+
+#include<stdio.h>
+int main(){
+    int a,b;
+    cout<<"Enter Two Numbers:"<<endl;
+    cin>>a>>b;
+    cout<<a+b<<endl;
+    return 0;
+}
