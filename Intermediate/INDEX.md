@@ -66,3 +66,10 @@ B C
 D E F
 G H I J
 ```
+### 24. Display the pattern below
+```html
+A
+A B
+A B C
+A B C D
+```
