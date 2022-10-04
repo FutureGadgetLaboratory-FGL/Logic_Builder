@@ -89,6 +89,7 @@
 * * *
 * * * *
 ```
+<sup> [Language:Kotlin Author:jackson-roberio] </sup>
 
 ### 27. Write a program to print the following pattern:
 ```html
@@ -97,6 +98,7 @@
 * * 
 * 
 ```
+<sup> [Language:Kotlin Author:jackson-roberio] </sup>
 
 ### 28. Input radius of a sphere and print the volume of sphere. volume of sphere = (4/3)*3.14*(radius)^3
 
