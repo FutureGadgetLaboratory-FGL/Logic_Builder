@@ -73,9 +73,27 @@ A B
 A B C
 A B C D
 ```
-<sup>[Language : C++ Author : coder-mohan]
+<sup>	[Language:C++ 	Author:coder-mohan]</sup><br>
 ### 25. check if Array is Sorted and Rotated
 ### 26. Peak Index in Mountain Array 
 ### 27. Find First and Last Position of Elements in Sorted Array
 ### 28. How many number are smaller than current number 
 ### 29. Find all the duplicates in an array 
+
+
+<sup>	[Language:C++ 	Author:coder-mohan]</sup><br>
+
+### 30. Cute Numbers
+### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio05int&problemid=244
+
+### 31. Curry
+### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio05int&problemid=245
+
+### 32. Landmark
+### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio05int&problemid=246
+
+### 33. Sculpture
+### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio05int&problemid=247
+
+### 34. Invasion
+### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio07int&problemid=339
