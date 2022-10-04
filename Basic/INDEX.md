@@ -123,3 +123,5 @@
 ### 34. Write a program to check whether a number is armstrong or not.
 
 ### 35. Write a program to create fibonacci series.
+
+### 36. Write a program to print the surface area of a cuboid.
