@@ -1,3 +1,9 @@
+/*
+Write a Program to Print the first 10 Fibonacci numbers without recursion
+*/
+
+// Solved by arpit-619
+
 let f0 = 0;
 println(f0);
 
