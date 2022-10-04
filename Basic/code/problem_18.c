@@ -26,3 +26,19 @@ int main()
   printf("The sum of its digits = %d", sum);
   return 0;
 }
+
+// solved by Ashwani2529
+
+#include<stdio.h>
+int main()
+{
+    long int a,sum=0,temp,r;
+    printf("Enter number: ");
+    scanf("%ld",&a);
+    while(a>0)
+    {
+    r=a%10;
+    sum=(sum+r);
+    a=a/10;}
+    return sum;
+}

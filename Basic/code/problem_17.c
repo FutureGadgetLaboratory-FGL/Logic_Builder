@@ -24,3 +24,17 @@ int rec(int x)
         f = x * rec(x - 1);
     return (f);
 }
+
+// solved by Ashwani2529
+
+#include<stdio.h>  
+int main()    
+{    
+ int i,fact=1,number;    
+ printf("Enter a number: ");    
+  scanf("%d",&number);    
+    for(i=1;i<=number;i++){    
+      fact=fact*i;    
+  }       
+return fact;  
+}   
