@@ -52,3 +52,10 @@ the queue should be of definite size which could deal with overflow as well as u
 ### 19. Input two numbers and print their sum using functions.
 ### 20. Write a program to print the factorial of a number using functions.
 ### 21. Write a program to find the position of a word in a sentence.
+### 22. Display the pattern below
+```html
+A
+B B
+C C C
+D D D D
+```
