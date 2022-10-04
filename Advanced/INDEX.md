@@ -3,4 +3,6 @@
 <sup>[Language:CPP Author:Rohan-G]</sup>
 ### 3. A Mindbending Scenario (Australian Informatics Olympiad programme!)
 ### 4. Counting to Infinity (Australian Informatics Olympiad programme!)
+### 5. The Tremendous Tak-Tak Tree (Australian Informatics Olympiad programme!)
+
 
