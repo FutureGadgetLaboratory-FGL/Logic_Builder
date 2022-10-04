@@ -110,3 +110,11 @@
 
 ### 32. Input two numbers and print their product.
 
+### 26. Write a program to print the following pattern:
+```html
+1
+2 3
+4 5 6
+7 8 9 10
+```
+
