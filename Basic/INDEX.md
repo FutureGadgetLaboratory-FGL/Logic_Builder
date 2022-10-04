@@ -18,7 +18,7 @@
 <sup>	[Language:C	Author:hypernovaradiation](/Basic/code/problem_5.c)</sup><br>
 <sup>	[Language:Python 	Author:Nitin Kumar](/Basic/code/problem_5.py)</sup><br>
 
-### 6.	Input base and height and calculate area of triangle. area of a triangle = (1/2*base*height)
+### 6.	Input base and height and calculate area of triangle. area of a triangle = (1/2\*base\*height)
 <sup>	[Language:Python 	Author:Nitin Kumar](/Basic/code/problem_6.py)</sup><br>
 
 
