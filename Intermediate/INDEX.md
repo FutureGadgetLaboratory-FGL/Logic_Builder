@@ -3,7 +3,11 @@
 ### 2. Display the pattern below
 
 ```html
-* * * * * * * * * *
+  *
+ * *
+* * * 
+ * *
+  *
 ```
 
 <sup>[Language:C Author:hypernovaradiation]</sup>
@@ -11,7 +15,11 @@
 ### 3. Display the pattern below
 
 ```html
-* * * * * * * * * * * * * * * * * *
+  *     *
+ * *   * * 
+* * * * * *
+ * *   * * 
+  *     *
 ```
 
 <sup>[Language:Java Author:nam710]</sup>
@@ -79,19 +87,28 @@
 ### 22. Display the pattern below
 
 ```html
-A B B C C C D D D D
+A 
+B B
+C C C
+D D D D
 ```
 
 ### 23. Display the pattern below
 
 ```html
-A B C D E F G H I J
+A
+B C
+D E F
+G H I J
 ```
 
 ### 24. Display the pattern below
 
 ```html
-A A B A B C A B C D
+A
+A B 
+A B C
+A B C D
 ```
 
 <sup> [Language:C++ Author:coder-mohan]</sup><br>
@@ -130,4 +147,4 @@ A A B A B C A B C D
 
 ### 35. Smallest number on left
 
-### 36.Kadane's Algorithm
+### 36. Kadane's Algorithm
