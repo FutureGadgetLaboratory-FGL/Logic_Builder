@@ -1,7 +1,8 @@
-// Given a non negative array representing an elevation map where width of each bar is 1 unit calculate how much water can be trapped after it rains 
-// eg  height = [4,2,0,3,2,5]
-// output 9
-
+/* 
+Given a non negative array representing an elevation map where width of each bar is 1 unit calculate how much water can be trapped after it rains 
+ eg  height = [4,2,0,3,2,5]
+ output 9
+*/
 
 #include<bits/stdc++.h>
 
