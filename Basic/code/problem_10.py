@@ -8,3 +8,16 @@ while n1:
     n1=int(n1/10)
     sum+=i
 print(sum)
+
+
+//By Parth Thaker
+
+
+def getSum(n):
+     
+    strr = str(n)
+    list_of_number = list(map(int, strr.strip()))
+    return sum(list_of_number)
+   
+n = 12345
+print(getSum(n))
