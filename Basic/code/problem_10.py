@@ -1,4 +1,7 @@
-# 10. Input 5 digit numbers and calculate sum of its digits.
+'''
+10. Input 5 digit numbers and calculate sum of its digits.
+'''
+
 # by Nitin Kumar
 
 sum=0
@@ -10,7 +13,7 @@ while n1:
 print(sum)
 
 
-//By Parth Thaker
+# By Parth Thaker
 
 
 def getSum(n):
