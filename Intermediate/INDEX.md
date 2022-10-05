@@ -150,3 +150,6 @@ A B C D
 ### 36. Kadane's Algorithm
 
 ### 37. Smallest number on left
+
+### 38. Merge Two Sorted Linked Lists
+### Link :  https://www.educative.io/m/merge-two-sorted-linked-lists
