@@ -1,12 +1,14 @@
-// N queens Problem
+/* N queens Problem
 
-//  In this problem we have to place N queen on a NXN chess board such that no queen can attack each other by being in the same row or column .
-//  for eg on a 4x4 chess board the queens can be placed on (3,1) , (1,2) , (4,3) , (2,4)
-//   1  2  3  4 
-// 1 _  _  q1  _
-// 2 q2  _  _  _
-// 3 _  _  _  q3
-// 4 _  q4  _  _
+In this problem we have to place N queen on a NXN chess board such that no queen can attack each other by being in the same row or column.
+for eg. on a 4x4 chess board the queens can be placed on (3,1) , (1,2) , (4,3) , (2,4)
+   1   2   3   4 
+ 1 _   _   q1  _
+ 2 q2  _   _   _
+ 3 _   _   _   q3
+ 4 _   q4  _   _
+ 
+*/
 
 #include <bits/stdc++.h>
 
