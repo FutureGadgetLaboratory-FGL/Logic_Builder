@@ -146,3 +146,5 @@
 ### 37. Write a program to print the first 10 Fibonacci numbers without recursion
 
 ### 38. Find minimum and maximum element in an array
+
+### 39. Write a program to find whether a number is prime or composite .
