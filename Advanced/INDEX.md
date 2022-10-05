@@ -51,3 +51,6 @@
 ### 25. Sliding Window Maximum
 
 ### 26. Count Different Palindromic Subsequences
+
+### 27. Minimum Cost of Rope
+### Link : https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
