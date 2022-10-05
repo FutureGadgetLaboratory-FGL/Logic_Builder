@@ -1,5 +1,9 @@
 /*
 Reverse Nodes in k-Group
+
+you are given the head of a linked list reverse the linked list in group of k nodes 
+eg 3->5->6->3->2->7->1->9 k=2
+output = 5->3->3->6->7->2->9->1 
 */
 
 // Solved by mohdaqib12011004
