@@ -97,7 +97,10 @@
 ### 26. Write a program to print the following pattern:
 
 ```html
-* * * * * * * * * *
+* 
+* * 
+* * * 
+* * * *
 ```
 
 <sup> [Language:Kotlin Author:jackson-roberio](/Basic/code/problem_26.kt) </sup><br>
@@ -105,7 +108,10 @@
 ### 27. Write a program to print the following pattern:
 
 ```html
-* * * * * * * * * *
+* * * * 
+* * * 
+* * 
+*
 ```
 
 <sup> [Language:Kotlin Author:jackson-roberio](/Basic/code/problem_27.kt) </sup><br>
@@ -123,7 +129,10 @@
 ### 33. Write a program to print the following pattern:
 
 ```html
-1 2 3 4 5 6 7 8 9 10
+1 
+2 3 
+4 5 6
+7 8 9 10
 ```
 
 <sup>[Lnaguage : C++ Author: coder-mohan]</sup><br>
