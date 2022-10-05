@@ -129,3 +129,5 @@ A A B A B C A B C D
 ### Link : http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio07int&problemid=339
 
 ### 35. Smallest number on left
+
+### 36.Kadane's Algorithm
