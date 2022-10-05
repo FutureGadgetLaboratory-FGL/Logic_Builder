@@ -148,3 +148,5 @@
 ### 38. Find minimum and maximum element in an array
 
 ### 39. Write a program to find whether a number is prime or composite .
+
+### 40. Write a program to calculate aggregate percentage scored by a student in 5 subjects .
