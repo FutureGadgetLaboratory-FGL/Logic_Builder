@@ -2,6 +2,11 @@
 Longest Increasing Subsequence
 */
 
+// Find out the longest increasing subsequence in the given array 
+// a subsequence of an array can be created by deleting  0 or more elements from the array without changing the order of the array 
+// eg [3,4,5,2,4,5]
+// [4 5 2] is a subsequence of the array 
+// [3 4 2] is not a subsequence of the array 
 // Solved by Rohan-G
 
 #include <bits/stdc++.h>
