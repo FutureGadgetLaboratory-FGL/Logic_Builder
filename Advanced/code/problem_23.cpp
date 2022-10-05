@@ -1,5 +1,7 @@
-
-// C++ program to find predecessor and successor in a BST
+/*
+C++ program to find predecessor and successor in a BST
+You are given a binary tree and a key find the predecessor and successor of the key 
+*/
 
 #include <iostream>
 using namespace std;
