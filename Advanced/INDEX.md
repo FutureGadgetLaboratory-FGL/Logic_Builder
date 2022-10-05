@@ -54,3 +54,5 @@
 
 ### 27. Minimum Cost of Rope
 ### Link : https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
+
+### 28. Greedy algorithm to find minimum number of coins
