@@ -149,4 +149,4 @@
 
 ### 39. Write a program to find whether a number is prime or composite .
 
-### 40. Write a program to calculate aggregate percentage scored by a student in 5 subjects .
+### 40. Write a program to calculate aggregate percentage scored by a student in 5 subjects . Percentage = ( Marks Obtained / 500 )\*100 . 
