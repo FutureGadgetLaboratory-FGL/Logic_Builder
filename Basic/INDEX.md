@@ -120,6 +120,8 @@
 
 ### 29. Input side and print the surface area of cube. surface area of cube = 6\*side
 
+<sup> [Language:Python Author:Bobliuuu](/Basic/code/problem_29.py)</sup><br>
+
 ### 30. Input radius and print the surface area of sphere. surface area of sphere = 4\*(22/7)\*radius\*radius
 
 ### 31. Input side and print the volume of cube. volume of cube = side\*side\*side
