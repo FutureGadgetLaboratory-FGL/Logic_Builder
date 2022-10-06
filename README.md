@@ -35,3 +35,11 @@ Contributions are always welcome!
 See [`CONTRIBUTING.md`](/CONTRIBUTING.md) for ways to get started.
 
 No matter how small or big of a contribution you are making, just make a contribution and it will be appreciated.
+
+-----
+
+### Other Repositories
+
+We also have some other repositories like this one where you can contribute:
+
+- [Mini Tools](https://github.com/hypernovaradiation/Mini_Tools) - This one is for mini tools built on command line which you can use and have fun with. You may also upload your own mini tools, games or projects in this repository.
