@@ -8,6 +8,8 @@
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_2.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_2.py)</sup><br>
+<sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_2.java)</sup><br>
+
 
 ### 3. Input length and breadth and calculate area of rectangle. Area of rectangle = length\*breadth
 
