@@ -32,6 +32,8 @@
 
 ### 15. Sliding Window Maximum
 
+<sup>[Language:Python Author:Divesh2003]</sup>
+
 ### 16. Find Median from Data Stream
 
 ### 17. Minimum Window Substring
