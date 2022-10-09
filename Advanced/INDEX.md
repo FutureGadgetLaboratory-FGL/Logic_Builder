@@ -26,6 +26,8 @@
 
 ### 13. Longest Valid Parentheses
 
+<sup>[Language:Python Author:Divesh2003]</sup>
+
 ### 14. Wildcard Matching
 
 ### 15. Sliding Window Maximum
