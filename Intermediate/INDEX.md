@@ -157,4 +157,6 @@ A B C D
 
 ### 39. Write a program to delete an element from the nth position of a list.
 
-### 40. Write a program to delete an element from the nth position of an array. 
+### 40. Write a program to delete an element from the nth position of an array.
+
+### 41. Make a game: Guess the hidden number.
