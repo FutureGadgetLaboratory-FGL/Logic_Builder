@@ -159,3 +159,5 @@
 ### 41. Write a program to input a number and print its square.
 
 ### 42. Write a program to input a number and print its cube.
+
+### 43. Write a program to check whether the number is armstrong or not.
