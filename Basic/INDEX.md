@@ -161,3 +161,5 @@
 ### 42. Write a program to input a number and print its cube.
 
 ### 43. Write a program to check whether the number is armstrong or not.
+
+### 43. Write a program to print the square root of a number.
