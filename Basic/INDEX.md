@@ -165,3 +165,5 @@
 ### 43. Write a program to print the square root of a number.
 
 ### 44. Write a program to print the cube root of a number.
+
+### 45. Write a program that given 2 numbers, n and k, calculate n to the root of k
