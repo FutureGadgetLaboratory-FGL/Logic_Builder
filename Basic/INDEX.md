@@ -2,13 +2,13 @@
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_1.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_1.py)</sup><br>
-<sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_1.java)</sup><br>
+<sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_1.java)</sup><br>
 
 ### 2. Input principle amount, rate and time and calculate S.I. S.I. = (Principle\*Rate\*Time)/100
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_2.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_2.py)</sup><br>
-<sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_2.java)</sup><br>
+<sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_2.java)</sup><br>
 
 
 ### 3. Input length and breadth and calculate area of rectangle. Area of rectangle = length\*breadth
@@ -68,6 +68,8 @@
 
 <sup> [Language:C Author:Napalion](/Basic/code/problem_15.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_15.py)</sup><br>
+<sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_15.java)</sup><br>
+
 
 ### 16. Write a program that given 3 numbers, a, b and c, print the roots of the equation a*x² + b*x + c = 0.
 
