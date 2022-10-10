@@ -1,6 +1,6 @@
 import java.util.*;
 
-class NQueens
+class problem_10
 {
     static int N = 4;
 
