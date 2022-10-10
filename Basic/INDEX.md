@@ -157,3 +157,5 @@
 ### 40. Write a program to calculate aggregate percentage scored by a student in 5 subjects . Percentage = ( Marks Obtained / 500 )\*100.
 
 ### 41. Write a program to input a number and print its square.
+
+### 42. Write a program to input a number and print its cube.
