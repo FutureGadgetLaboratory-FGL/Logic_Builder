@@ -4,17 +4,13 @@
 * * * 
 * * * *    */
 
-//Solved by Ashwani2529
+//Solved by VibhowSingh56
 #include <stdio.h>
 int main() {
-   int i, j, rows;
-   printf("Enter the number of rows: ");
-   scanf("%d", &rows);
-   for (i = 1; i <= rows; ++i) {
+   int i, j;
+   for (i = 1; i <= 4; ++i) {
       for (j = 1; j <= i; ++j) {
          printf("* ");
       }
       printf("\n");
-   }
-   return 0;
-}
+   }}
