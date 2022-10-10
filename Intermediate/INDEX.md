@@ -161,6 +161,6 @@ A B C D
 
 ### 41. Make a game: Guess the hidden number.
 
-### 42. Write a program to find the occurences of a letter in a string.
+### 42. Write a program to find the number of occurences of a letter in a string.
 
 ### 43. Write a program to find the number of occurences of a word in a sentence.
