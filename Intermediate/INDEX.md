@@ -160,3 +160,5 @@ A B C D
 ### 40. Write a program to delete an element from the nth position of an array.
 
 ### 41. Make a game: Guess the hidden number.
+
+### 42. Write a program to find the occurences of a letter in a string.
