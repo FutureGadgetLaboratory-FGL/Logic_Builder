@@ -154,3 +154,5 @@ A B C D
 
 ### 38. Merge Two Sorted Linked Lists
 ### Link :  https://www.educative.io/m/merge-two-sorted-linked-lists
+
+### 39. Write a program to delete an element from the nth position of a list. 
