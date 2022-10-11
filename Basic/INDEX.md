@@ -165,16 +165,16 @@
 
 ### 43. Write a program to check whether the number is armstrong or not.
 
-### 43. Write a program to print the square root of a number.
+### 44. Write a program to print the square root of a number.
 
-### 44. Write a program to print the cube root of a number.
+### 45. Write a program to print the cube root of a number.
 
-### 45. Write a program that given 2 numbers, n and k, calculate n to the root of k.
+### 46. Write a program that given 2 numbers, n and k, calculate n to the root of k.
 
-### 46. Write a program to concatenate two strings.
+### 47. Write a program to concatenate two strings.
 
-### 47. Write a program to print "Hello World!".
+### 48. Write a program to print "Hello World!".
 
-### 48. Write a program to check whether the number is co-prime or not.
+### 49. Write a program to check whether the number is co-prime or not.
 
-### 49. Write a program to check whether a number is perfect or not.
+### 50. Write a program to check whether a number is perfect or not.
