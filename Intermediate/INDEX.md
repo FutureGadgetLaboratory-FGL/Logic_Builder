@@ -1,6 +1,6 @@
 ### 1. Create a program to automatically add questions into this problems.md file after taking the problem statement as input to the program.
 
-### 2. Display the pattern below
+### 2. Display the pattern below:
 
 ```html
   *
@@ -12,7 +12,7 @@
 
 <sup>[Language:C Author:hypernovaradiation]</sup>
 
-### 3. Display the pattern below
+### 3. Display the pattern below:
 
 ```html
   *     *
@@ -164,3 +164,15 @@ A B C D
 ### 42. Write a program to find the number of occurences of a letter in a string.
 
 ### 43. Write a program to find the number of occurences of a word in a sentence.
+
+### 44. Display the pattern below
+```html  
+  *   *   *   *   
+*       *       * 
+*               * 
+*               * 
+  *           *   
+    *       *     
+      *   *       
+        *
+```
