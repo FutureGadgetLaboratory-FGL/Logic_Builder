@@ -175,4 +175,4 @@
 
 ### 47. Write a program to print "Hello World!".
 
-### 48. Write a program to check whether a number is perfect or not..
+### 48. Write a program to check whether a number is perfect or not.
