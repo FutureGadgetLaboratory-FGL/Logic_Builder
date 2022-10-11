@@ -12,7 +12,7 @@
 
 <sup>[Language:C Author:hypernovaradiation]</sup>
 
-### 3. Display the pattern below
+### 3. Display the pattern below:
 
 ```html
   *     *
