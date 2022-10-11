@@ -175,8 +175,6 @@
 
 ### 47. Write a program to print "Hello World!".
 
-### 49. Write a program to check whether the number is co-prime or not.
-
-### 48. Write a program to print if a number is perfect or not.
+### 48. Write a program to check whether the number is co-prime or not.
 
 ### 49. Write a program to check whether a number is perfect or not.
