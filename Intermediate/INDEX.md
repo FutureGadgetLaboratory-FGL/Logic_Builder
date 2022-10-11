@@ -164,3 +164,15 @@ A B C D
 ### 42. Write a program to find the number of occurences of a letter in a string.
 
 ### 43. Write a program to find the number of occurences of a word in a sentence.
+
+### 44. Display the pattern below
+```html  
+  *   *   *   *   
+*       *       * 
+*               * 
+*               * 
+  *           *   
+    *       *     
+      *   *       
+        *
+```
