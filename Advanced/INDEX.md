@@ -71,4 +71,6 @@
 
 ### 31. Check for Balanced Brackets in an expression using Stack.
 
-### 32.Level Order traversal
+### 32. Level Order traversal
+
+### 33. Minimum Cost to Hire K Workers
