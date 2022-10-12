@@ -75,3 +75,5 @@
 
 ### 33.Level Order traversal
 
+### 34. Minimum Cost to Hire K Workers
+
