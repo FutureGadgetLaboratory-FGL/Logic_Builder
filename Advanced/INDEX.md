@@ -71,4 +71,11 @@
 
 ### 31. Check for Balanced Brackets in an expression using Stack.
 
-### 32. Binary Tree Level Order Traversal
+### 32. Topological sort
+
+### 33.Level Order traversal
+
+### 34. Minimum Cost to Hire K Workers
+
+### 35. Binary Tree Level Order Traversal
+
