@@ -178,3 +178,16 @@
 ### 49. Write a program to check whether the number is co-prime or not.
 
 ### 50. Write a program to check whether a number is perfect or not.
+
+### 52.Write a program to print the following pattern:
+```html 
+    1
+   2 2
+  3   3
+ 4     4
+5       5
+ 4     4
+  3   3
+   2 2
+    1
+```
