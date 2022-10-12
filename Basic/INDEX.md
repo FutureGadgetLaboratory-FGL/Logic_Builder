@@ -179,6 +179,16 @@
 
 ### 50. Write a program to check whether a number is perfect or not.
 
+### 51. Write a program to print the following pattern
+ ```html
+   1 1 1 1 1
+   1       1
+   1       1
+   1       1
+   1 1 1 1 1
+ 
+ ```
+
 ### 52.Write a program to print the following pattern:
 ```html 
     1
