@@ -213,4 +213,12 @@
    4 4
     5
 ```
-### 56. Write a program to print Pascal's Triangle
+
+### 56.Write a program to print the following pattern:
+```html
+       1 
+     2 3 4
+   5 6 7 8 9
+```
+
+### 57. Write a program to print Pascal's Triangle
