@@ -203,3 +203,5 @@
 ```
 
 ### 53. Merge Sorted Array
+
+### 54. Write a program to remove Duplicates from Sorted List
