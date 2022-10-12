@@ -1,3 +1,5 @@
+// Author - Ether28
+
 #include <stdio.h>
 int main() {
     int num, originalNum, remainder, result = 0;

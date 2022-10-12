@@ -1,3 +1,5 @@
+// Author RudraHackerr
+
 #include <stdio.h>
 int main() {
 

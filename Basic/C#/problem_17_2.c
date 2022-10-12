@@ -1,3 +1,5 @@
+// Author - hypernovaradiation
+
 #include <stdio.h>
 
 int main() {

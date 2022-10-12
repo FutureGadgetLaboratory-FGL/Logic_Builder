@@ -1,3 +1,5 @@
+// Author - Chanduu11
+
 #include<stdio.h>
 #include<conio.h>
 

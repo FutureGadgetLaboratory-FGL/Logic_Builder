@@ -1,3 +1,5 @@
+// Author - Chanduu11
+
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation

@@ -1,5 +1,7 @@
 /*32. Input two numbers and print their product.*/
+
 //Solved by Ashwani2529
+
 #include<stdio.h>
 int main(){
   int a,b,c;
