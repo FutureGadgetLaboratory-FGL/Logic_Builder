@@ -176,5 +176,8 @@ A B C D
       *   *       
         *
 ```
+
 ### 45. 0 - 1 Knapsack Problem 
 ### Link: https://www.javatpoint.com/0-1-knapsack-problem
+
+### 46. Detect Loop in a Linked Lst
