@@ -181,3 +181,5 @@ A B C D
 ### Link: https://www.javatpoint.com/0-1-knapsack-problem
 
 ### 46. Detect Loop in a Linked Lst
+
+### 47. Longest Increasing Subsequence
