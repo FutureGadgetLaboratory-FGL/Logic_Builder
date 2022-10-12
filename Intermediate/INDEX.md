@@ -176,3 +176,5 @@ A B C D
       *   *       
         *
 ```
+
+### 45. Detect Loop in a Linked Lst
