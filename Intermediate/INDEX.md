@@ -183,3 +183,6 @@ A B C D
 ### 46. Detect Loop in a Linked Lst
 
 ### 47. Longest Increasing Subsequence
+
+### 48. 0/1 Knapsack
+
