@@ -67,4 +67,6 @@
 
 ### 29. Integer to English Words
 
-### 30. Check for Balanced Brackets in an expression using Stack.
+### 30. Maximum Depth of Binary Tree
+
+### 31. Check for Balanced Brackets in an expression using Stack.
