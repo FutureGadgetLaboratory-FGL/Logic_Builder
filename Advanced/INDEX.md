@@ -64,3 +64,5 @@
 ### Link : https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
 
 ### 28. Greedy algorithm to find minimum number of coins
+
+### 29. Minimum Insertion Steps to Make a String Palindrome
