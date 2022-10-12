@@ -213,3 +213,4 @@
    4 4
     5
 ```
+### 56. Write a program to print Pascal's Triangle
