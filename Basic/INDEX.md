@@ -222,3 +222,4 @@
 ```
 
 ### 57. Write a program to print Pascal's Triangle
+### 60.Write a program in C++ to find the third angle of a triangle.
