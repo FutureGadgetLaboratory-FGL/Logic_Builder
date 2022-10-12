@@ -179,4 +179,29 @@
 
 ### 50. Write a program to check whether a number is perfect or not.
 
-### 51. Write a program to remove Duplicates from Sorted List
+### 51. Write a program to print the following pattern
+ ```html
+   1 1 1 1 1
+   1       1
+   1       1
+   1       1
+   1 1 1 1 1
+ 
+ ```
+
+### 52.Write a program to print the following pattern:
+```html 
+    1
+   2 2
+  3   3
+ 4     4
+5       5
+ 4     4
+  3   3
+   2 2
+    1
+```
+
+### 53. Merge Sorted Array
+
+### 54. Write a program to remove Duplicates from Sorted List
