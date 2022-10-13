@@ -222,6 +222,9 @@
 ```
 
 ### 57. Write a program to print Pascal's Triangle
+
+### 58.Sum of array 
+
 ### 59.write a program to print the following pattern:
 ```html
     1
@@ -234,3 +237,4 @@
    123
     1
 ```
+
