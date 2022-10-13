@@ -222,4 +222,19 @@
 ```
 
 ### 57. Write a program to print Pascal's Triangle
+
 ### 58.Sum of array 
+
+### 59.write a program to print the following pattern:
+```html
+    1
+   123
+  12345
+ 1234567
+123456789
+ 1234567
+  12345
+   123
+    1
+```
+
