@@ -238,3 +238,4 @@
     1
 ```
 
+### 60.Write a program  to print a welcome text in a separate line.
