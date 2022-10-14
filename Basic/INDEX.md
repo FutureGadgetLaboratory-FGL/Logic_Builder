@@ -189,7 +189,7 @@
  
  ```
 
-### 52.Write a program to print the following pattern:
+### 52. Write a program to print the following pattern:
 ```html 
     1
    2 2
