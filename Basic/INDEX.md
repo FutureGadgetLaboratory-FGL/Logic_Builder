@@ -222,4 +222,24 @@
 ```
 
 ### 57. Write a program to print Pascal's Triangle
-### 59.Write a program in C++ to calculate the volume of a sphere.
+
+### 58.Sum of array 
+
+### 59.write a program to print the following pattern:
+```html
+    1
+   123
+  12345
+ 1234567
+123456789
+ 1234567
+  12345
+   123
+    1
+```
+
+### 60.Write a program  to print a welcome text in a separate line.
+
+### 61.Write a program in C++ to find the third angle of a triangle.
+
+### 62.Write a program in C++ to calculate the volume of a sphere.
