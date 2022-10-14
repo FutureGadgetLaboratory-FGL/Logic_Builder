@@ -242,6 +242,6 @@
 
 ### 61.Write a program to find the third angle of a triangle.
 
-### 62.Write a program in C++ to calculate the volume of a sphere.
+
 
 
