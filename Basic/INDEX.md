@@ -225,7 +225,7 @@
 
 ### 58. Write a program to print the sum of an array. 
 
-### 59.write a program to print the following pattern:
+### 59. Write a program to print the following pattern:
 ```html
     1
    123
