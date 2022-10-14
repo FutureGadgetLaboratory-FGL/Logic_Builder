@@ -222,7 +222,7 @@
    5 6 7 8 9
 ```
 
-### 57. Write a program to print Pascal's Triangle
+### 57. Write a program to print Pascal's Triangle.
 
 ### 58. Write a program to print the sum of an array. 
 
