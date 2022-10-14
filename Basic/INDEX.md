@@ -202,7 +202,7 @@
     1
 ```
 
-### 53. Merge Sorted Array
+### 53. Write a program to Merge Sorted Arrays.
 
 ### 54. Write a program to remove Duplicates from Sorted List
 ### 55. Write a program to print the following Pattern:
