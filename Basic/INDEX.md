@@ -223,7 +223,7 @@
 
 ### 57. Write a program to print Pascal's Triangle
 
-### 58. Write a print the sum of array. 
+### 58. Write a program to print the sum of an array. 
 
 ### 59.write a program to print the following pattern:
 ```html
