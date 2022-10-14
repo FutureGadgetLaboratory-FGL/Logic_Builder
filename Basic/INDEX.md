@@ -214,7 +214,7 @@
     5
 ```
 
-### 56.Write a program to print the following pattern:
+### 56. Write a program to print the following pattern:
 ```html
        1 
      2 3 4
