@@ -238,7 +238,7 @@
     1
 ```
 
-### 60.Write a program to print a welcome text in a separate line.
+### 60. Write a program to print a welcome text in a separate line.
 
 ### 61. Write a program to find the third angle of a triangle.
 
