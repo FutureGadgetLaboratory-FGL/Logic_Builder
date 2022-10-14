@@ -1,0 +1,51 @@
+// Binary search [TC= o(logn)]  Applied only on sorted array and much better than linear search coz tc is less
+
+#include<iostream>
+using namespace std;
+int binarySearch(int arr[],int size,int key)
+{
+    int start=0,end=size-1;
+    int mid=(start+end)/2;    /* mid=start+(end-start)/2  (better approach) */
+    while(start<=end)
+    {
+   if ((key==arr[mid]))
+   {
+       return mid;
+   }
+   else if(key<arr[mid])
+   {
+     end=mid-1;     
+   }
+   else
+   {
+     start=mid+1;
+   }
+   mid=(start+end)/2;
+    }
+    return -1;
+}
+void printArray(int arr[],int size)
+
+{
+    cout<<"Elemenst of array are ";
+    for(int i=0;i<size;i++)
+    {
+        cout<<arr[i]<<" ";
+    }
+}
+int main()
+{
+    int arr[10],size,key;
+    cout<<"Enter the size of array: ";
+    cin>>size;
+    cout<<"Enter the elements of array: ";
+    for(int i=0;i<size;i++)
+    {
+        cin>>arr[i];
+    }
+printArray(arr,size);
+cout<<endl;
+cout<<"Enter the key: ";
+cin>>key;
+cout <<"The element is located at index  "<<binarySearch(arr,size,key);
+}
