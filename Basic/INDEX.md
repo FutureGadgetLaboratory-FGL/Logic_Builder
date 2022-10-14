@@ -240,7 +240,7 @@
 
 ### 60.Write a program to print a welcome text in a separate line.
 
-### 61.Write a program to find the third angle of a triangle.
+### 61. Write a program to find the third angle of a triangle.
 
 
 
