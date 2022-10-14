@@ -205,7 +205,7 @@
 ### 53. Merge Sorted Array
 
 ### 54. Write a program to remove Duplicates from Sorted List
-### 55.Write a program to print the following Pattern:
+### 55. Write a program to print the following Pattern:
 ```html
  1     1       
  2     2
