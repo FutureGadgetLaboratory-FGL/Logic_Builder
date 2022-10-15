@@ -197,3 +197,4 @@ A B C D
    13 12 11 10 9
  
  ```
+### 51. Write a program to detect cycle in Directed Graph.
