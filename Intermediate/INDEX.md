@@ -183,3 +183,18 @@ A B C D
 ### 46. Detect Loop in a Linked Lst
 
 ### 47. Longest Increasing Subsequence
+
+### 48. Perform Inheritance in classes
+
+### 49. Perform operations no turtle in python
+
+### 50. Write a program to print the following pattern
+ ```html
+   1  2  3  4  5
+   16          6
+   15          7
+   14          8
+   13 12 11 10 9
+ 
+ ```
+### 51. Write a program to detect cycle in Directed Graph.

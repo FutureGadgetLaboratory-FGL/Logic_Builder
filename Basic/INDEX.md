@@ -189,7 +189,7 @@
  
  ```
 
-### 52.Write a program to print the following pattern:
+### 52. Write a program to print the following pattern:
 ```html 
     1
    2 2
@@ -202,10 +202,11 @@
     1
 ```
 
-### 53. Merge Sorted Array
+### 53. Write a program to Merge Sorted Arrays.
 
-### 54. Write a program to remove Duplicates from Sorted List
-### 55.Write a program to print the following Pattern:
+### 54. Write a program to remove Duplicates from Sorted List.
+
+### 55. Write a program to print the following Pattern:
 ```html
  1     1       
  2     2
@@ -214,11 +215,34 @@
     5
 ```
 
-### 56.Write a program to print the following pattern:
+### 56. Write a program to print the following pattern:
 ```html
        1 
      2 3 4
    5 6 7 8 9
 ```
 
-### 57. Write a program to print Pascal's Triangle
+### 57. Write a program to print Pascal's Triangle.
+
+### 58. Write a program to print the sum of an array. 
+
+### 59. Write a program to print the following pattern:
+```html
+    1
+   123
+  12345
+ 1234567
+123456789
+ 1234567
+  12345
+   123
+    1
+```
+
+### 60. Write a program to print a welcome text in a separate line.
+
+### 61. Write a program to find the third angle of a triangle.
+
+
+
+
