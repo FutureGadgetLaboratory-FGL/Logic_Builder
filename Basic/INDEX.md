@@ -18,6 +18,8 @@
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_3.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
 <sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.java)</sup><br>
+<sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.cpp)</sup><br>
+
 
 ### 4. Write a program to input the side and print the area of square. Area of square = side\*side
 
