@@ -1,4 +1,4 @@
-### 1. Input two numbers and print their sum.
+### 1. Write a program to input two numbers and print their sum.
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_1.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_1.py)</sup><br>
