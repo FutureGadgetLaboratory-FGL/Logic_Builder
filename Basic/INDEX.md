@@ -17,7 +17,7 @@
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
 <sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.java)</sup><br>
 
-### 4. Input the side and calculate area of square. Area of square = side\*side
+### 4. Write a program to input the side and print the area of square. Area of square = side\*side
 
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_4.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_4.py)</sup><br>
