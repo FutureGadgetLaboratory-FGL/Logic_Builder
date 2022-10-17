@@ -22,7 +22,7 @@
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_4.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_4.py)</sup><br>
 
-### 5. Input radius and calculate area and circumference of circle. area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
+### 5. Write a program to input radius and print the area and circumference of circle. Area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
 
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_5.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_5.py)</sup><br>
