@@ -61,7 +61,7 @@
 <sup>[Language:Python Author:Pythonicboat]</sup>
 
 ### 10. Write a program for selection sort.
-
+<sup>[Language:C++(CPP) Author:harshMishra27(CodeGess)]</sup>
 ### 11. Write a program for insertion sort.
 
 ### 12. Write a program for binary search.
