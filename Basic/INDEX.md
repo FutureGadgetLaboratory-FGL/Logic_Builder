@@ -11,7 +11,7 @@
 <sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_2.java)</sup><br>
 
 
-### 3. Write a program to input length and breadth and print the area of the rectangle. Area of rectangle = length\*breadth
+### 3. Write a program to input length and breadth and print the area of the rectangle. Area of a rectangle = length\*breadth
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_3.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
