@@ -198,3 +198,5 @@ A B C D
  
  ```
 ### 51. Write a program to detect cycle in Directed Graph.
+
+### 52. Dijkastra Algorithm
