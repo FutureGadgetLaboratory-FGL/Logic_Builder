@@ -4,7 +4,7 @@
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_1.py)</sup><br>
 <sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_1.java)</sup><br>
 
-### 2. Input principle amount, rate and time and calculate S.I. S.I. = (Principle\*Rate\*Time)/100
+### 2. Write a program to input principle amount, rate and time and print Simple Interest. S.I. = (Principle\*Rate\*Time)/100
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_2.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_2.py)</sup><br>
