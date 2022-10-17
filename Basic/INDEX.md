@@ -1,28 +1,28 @@
-### 1. Input two numbers and print their sum.
+### 1. Write a program to input two numbers and print their sum.
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_1.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_1.py)</sup><br>
 <sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_1.java)</sup><br>
 
-### 2. Input principle amount, rate and time and calculate S.I. S.I. = (Principle\*Rate\*Time)/100
+### 2. Write a program to input principle amount, rate and time and print Simple Interest. S.I. = (Principle\*Rate\*Time)/100
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_2.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_2.py)</sup><br>
 <sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_2.java)</sup><br>
 
 
-### 3. Input length and breadth and calculate area of rectangle. Area of rectangle = length\*breadth
+### 3. Write a program to input length and breadth and print the area of the rectangle. Area of a rectangle = length\*breadth
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_3.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
 <sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.java)</sup><br>
 
-### 4. Input the side and calculate area of square. Area of square = side\*side
+### 4. Write a program to input the side and print the area of square. Area of square = side\*side
 
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_4.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_4.py)</sup><br>
 
-### 5. Input radius and calculate area and circumference of circle. area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
+### 5. Write a program to input radius and print the area and circumference of circle. Area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
 
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_5.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_5.py)</sup><br>
@@ -189,7 +189,7 @@
  
  ```
 
-### 52.Write a program to print the following pattern:
+### 52. Write a program to print the following pattern:
 ```html 
     1
    2 2
@@ -202,10 +202,11 @@
     1
 ```
 
-### 53. Merge Sorted Array
+### 53. Write a program to Merge Sorted Arrays.
 
-### 54. Write a program to remove Duplicates from Sorted List
-### 55.Write a program to print the following Pattern:
+### 54. Write a program to remove Duplicates from Sorted List.
+
+### 55. Write a program to print the following Pattern:
 ```html
  1     1       
  2     2
@@ -214,11 +215,34 @@
     5
 ```
 
-### 56.Write a program to print the following pattern:
+### 56. Write a program to print the following pattern:
 ```html
        1 
      2 3 4
    5 6 7 8 9
 ```
 
-### 57. Write a program to print Pascal's Triangle
+### 57. Write a program to print Pascal's Triangle.
+
+### 58. Write a program to print the sum of an array. 
+
+### 59. Write a program to print the following pattern:
+```html
+    1
+   123
+  12345
+ 1234567
+123456789
+ 1234567
+  12345
+   123
+    1
+```
+
+### 60. Write a program to print a welcome text in a separate line.
+
+### 61. Write a program to find the third angle of a triangle.
+
+### 62. Write a program to print Pascal's Triangle
+
+### 63. Topological Sort: Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge u v, vertex u comes before v in the ordering.

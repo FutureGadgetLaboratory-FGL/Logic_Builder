@@ -60,8 +60,7 @@
 
 ### 26. Count Different Palindromic Subsequences
 
-### 27. Minimum Cost of Rope
-### Link : https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
+### 27. [Minimum Cost of Rope](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) Problem
 
 ### 28. Greedy algorithm to find minimum number of coins
 
@@ -73,9 +72,21 @@
 
 ### 32. Topological sort
 
-### 33.Level Order traversal
+### 33. Level Order traversal
 
 ### 34. Minimum Cost to Hire K Workers
 
 ### 35. Binary Tree Level Order Traversal
+ 
+### 36. Coin Change.
+
+### 37. Minimum Steps By Knight.
+
+### 38. Adding Cirular linked List
+ 
+### 39. Adding Doubly linked List
+
+### 40 Circular Linked list
+
+### 41. Substring with Concatenation of All Wor
 
