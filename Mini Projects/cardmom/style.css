@@ -1,0 +1,181 @@
+
+
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  margin: 0 20px;
+  font-size: 15px;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+li:hover{
+  color: purple;
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.space {
+  width: 63%;
+}
+
+.logo {
+  font-size: 30px;
+  margin-left: 50px;
+  color: purple;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.banner-img {
+  height: 500px;
+}
+
+.banner-text {
+  width: 500px;
+}
+
+.banner-box {
+  padding-left: 5%;
+}
+
+button {
+  background-color: purple;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 7px;
+  width: 120px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  padding: 3%;
+  background-color: #f7f7f7;
+  width: fill;
+
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  margin: 3%;
+  padding: 3%;
+  cursor: pointer;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+.feature:hover{
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.feature>img {
+  height: 100px;
+  width: 100px;
+}
+
+label {
+  text-align: center;
+  font-size: 1rem;
+}
+
+h3{
+  text-align: center;
+}
+
+@media all and (max-width:1000px) {
+  .banner {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .banner-box {
+    padding-left: 3%;
+  }
+
+  .banner-text {
+    font-size: 100px;
+    width: 80%;
+  }
+
+  button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 50px;
+    border-radius: 18px;
+    width: 50%;
+    font-size: 50px;
+  }
+
+  .logo {
+    font-size: 60px;
+    margin: 50px;
+    color: purple;
+  }
+
+  .banner-img {
+    width: 80%;
+    height: auto;
+  }
+
+  li {
+    display: inline;
+    margin: 0 10px;
+    font-size: 35px;
+    font-family: sans-serif;
+  }
+
+  .space {
+    width: 20%;
+  }
+
+  .feature{
+    width: 100%;
+    border-radius: 20px;
+    padding: 5%;
+  }
+
+  .features{
+     flex-wrap: wrap;
+  }
+
+  .feature > h3 {
+    font-size: 36px;
+
+  }
+
+  .feature > label{
+
+    font-size: 24px;
+
+  }
+
+  .feature>img {
+    height: 150px;
+    width: 150px;
+  }
+
+}
