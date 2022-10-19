@@ -1,3 +1,4 @@
+//6. Write a program to input base and height and print the area of triangle. area of a triangle = (1/2*base*height).
 import java.util.*;
 public class Main
 {
