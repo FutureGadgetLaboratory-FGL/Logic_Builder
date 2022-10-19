@@ -95,6 +95,7 @@
 <sup> [Language:C Author:hououinkyouma01](/Basic/code/problem_18.c)</sup><br>
 
 ### 19. Write a program to print the palindrome of a string.
+<sup> [Language:C Author:archit987](/Basic/code/problem_19.c)</sup><br>
 
 ### 20. Write a program to print the reverse of a number.
 
