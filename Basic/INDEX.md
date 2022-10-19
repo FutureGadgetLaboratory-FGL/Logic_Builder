@@ -42,7 +42,7 @@
 > hra is 10% of bs. <br>
 > <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_7.py)</sup><br>
 
-### 8. Input temperature in Fahrenheit and convert into Celsius. fahrenheit = (celsius \* 9/5) + 32
+### 8. Write a program to input temperature in Fahrenheit and print it into Celsius. fahrenheit = (celsius \* 9/5) + 32
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_8.py)</sup><br>
 
