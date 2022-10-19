@@ -202,3 +202,5 @@ A B C D
 ### 52. Dijkastra Algorithm
 
 ### 53. [Wierd Algorithm](https://cses.fi/problemset/task/1068)
+
+### 54. [Missing Number](https://cses.fi/problemset/task/1083)
