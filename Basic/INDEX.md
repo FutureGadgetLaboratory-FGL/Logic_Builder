@@ -18,6 +18,7 @@
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_3.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
 <sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.java)</sup><br>
+<sup> [Language:Java Author:Bhavyakishor](/Basic/code/problem_3.cpp)</sup><br>
 <sup> [Language:C++ Author:Bhaskar Gupta](/Basic/code/problem_3.cpp)</sup><br>
 
 
