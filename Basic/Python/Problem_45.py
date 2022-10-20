@@ -1,3 +1,5 @@
+# Program to print the cube root of a number
+
 def diff(n, mid) :
     if (n > (mid * mid * mid)) :
         return (n - (mid * mid * mid))
