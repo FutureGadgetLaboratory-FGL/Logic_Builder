@@ -50,7 +50,7 @@
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_8.py)</sup><br>
 
-### 9. Input two numbers and swap them.
+### 9. Write a program to input two numbers and swap them.
 
 <sup> [Language:C Author:Bhumi54321](/Basic/code/problem_.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_9.py)</sup><br>
