@@ -204,3 +204,5 @@ A B C D
 ### 53. [Wierd Algorithm](https://cses.fi/problemset/task/1068)
 
 ### 54. [Missing Number](https://cses.fi/problemset/task/1083)
+
+### 55. [Jump Game](https://leetcode.com/problems/jump-game/)
