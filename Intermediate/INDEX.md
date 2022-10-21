@@ -206,3 +206,5 @@ A B C D
 ### 54. [Missing Number](https://cses.fi/problemset/task/1083)
 
 ### 55. [Jump Game](https://leetcode.com/problems/jump-game/)
+
+### 56.[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
