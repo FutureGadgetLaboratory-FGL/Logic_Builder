@@ -55,7 +55,7 @@
 <sup> [Language:C Author:Bhumi54321](/Basic/code/problem_.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_9.py)</sup><br>
 
-### 10. Input 5 digit numbers and calculate sum of its digits.
+### 10. Write a program to input 5 digit numbers and calculate sum of its digits.
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_10.py)</sup><br>
 
