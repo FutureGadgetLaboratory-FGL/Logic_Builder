@@ -101,7 +101,7 @@
 
 ### 21. Write a program to input side of a square and print the perimeter of the square. perimeter of square = 4\*side
 
-### 22. Input length, breadth and height and output the volume of the cuboid. volume of a cuboid = length*breadth*height
+### 22. Write a program to input length, breadth and height and output the volume of the cuboid. volume of a cuboid = length*breadth*height
 
 ### 23. Input the sides of a triangle and print the area of a triangle using heron's formula. heron's formula = (S\*(S-A)\*(S-B)\*(S-C))^1/2 where S=(A+B+C)/2 and A,B and C are the sides of the triangle.
 
