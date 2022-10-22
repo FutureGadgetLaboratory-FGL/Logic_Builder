@@ -59,7 +59,7 @@
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_10.py)</sup><br>
 
-### 12. Input two variables and swap them using a function.
+### 12. Write a program to input two variables and swap them using a function.
 
 <sup> [Language:C Author:Bhumi54321](/Basic/code/problem_12.c)</sup><br>
 
