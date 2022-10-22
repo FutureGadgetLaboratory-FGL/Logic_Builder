@@ -141,7 +141,7 @@
 
 ### 31. Write a program to input side and print the volume of cube. volume of cube = side\*side\*side
 
-### 32. Input two numbers and print their product.
+### 32. Write a program to input two numbers and print their product.
 
 ### 33. Write a program to print the following pattern:
 
