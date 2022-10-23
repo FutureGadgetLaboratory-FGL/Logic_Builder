@@ -1,3 +1,5 @@
+//Write a program to input the side and print the area of square. Area of square = side*side.
+
 import java.util.Scanner;
 
 public class AreaS
