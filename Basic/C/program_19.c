@@ -2,10 +2,12 @@ radar, madam, pop, lol, etc.
 
 
 #include <stdio.h>
+    #include<conio.h>
 #include <string.h>
 
 int main(){
     char string1[20];
+    clrscr();
     int i, length;
     int flag = 0;
     
@@ -27,5 +29,6 @@ int main(){
     else {
         printf("%s is a palindrome", string1);
     }
+    getch();
     return 0;
 }
