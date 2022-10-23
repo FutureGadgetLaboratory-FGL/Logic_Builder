@@ -39,8 +39,9 @@
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_6.py)</sup><br>
 
-### 7. If Basic salary is input through keyboard write a program to calculate gross salary. Where,
+### 7. Write a program to calculate gross salary where, 
 
+> basic salary is input through keyboard. <br>
 > da is 10% of bs. <br>
 > ta is 12% of bs. <br>
 > hra is 10% of bs. <br>
