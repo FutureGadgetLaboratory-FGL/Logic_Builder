@@ -208,3 +208,5 @@ A B C D
 ### 55. [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ### 56.[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+
+### 57. Number of Pairs ( https://codeforces.com/contest/134/problem/B )
