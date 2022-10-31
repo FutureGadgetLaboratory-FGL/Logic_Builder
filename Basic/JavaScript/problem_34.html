@@ -1,0 +1,48 @@
+/*
+Name: Archit Shandilya
+Program: Write a program to check whether a number is armstrong or not.
+Problem Number: 34
+Programming language: JavaScript
+
+*/
+
+//To Check a given number is Armstrong number or Not
+<html>
+<head>
+<title>JavaScript program to Check a given number is Armstrong number or Not</title>
+</head>
+<body>
+<table>
+<tr>
+<td> <input type="text" name="a" id="first" placeholder="Enter a number"> </td>
+</tr>
+<tr>
+<td> <button onclick="armstrong ()" >Submit</button> </td>
+</tr>
+</table>
+<div id ="num"></div>
+</body>
+
+<script type="text/javascript">
+function armstrong()
+{
+var r,n,sum = 0;
+n = parseInt(document.getElementById ("first").value);
+n1 = n;
+while(n > 0)
+{
+r = n%10;
+sum = sum+(r*r*r);
+n = parseInt(n/10);
+}
+if(sum == n1)
+{
+document.getElementById ("num").innerHTML = n1+" is an Armstrong number ";
+}
+else
+{
+document.getElementById ("num").innerHTML = n1+" is not an Armstrong number";
+}
+}
+</script>
+</html>
