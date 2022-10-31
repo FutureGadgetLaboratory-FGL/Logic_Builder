@@ -161,7 +161,7 @@
 
 ### 36. Write a program to print the surface area of a cuboid. surface area of cuboid = 2\*(l\*b+b\*h+h\*l) where l is the length, b is the breadth and h is the height.
 
-### 37. Write a program to print the first 10 Fibonacci numbers without recursion
+### 37. Write a program to print the first 10 Fibonacci numbers without recursion.
 
 ### 38. Write a program to find the maximum and minimum element in an array.
 
