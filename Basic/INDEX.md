@@ -84,7 +84,7 @@
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_16.py)</sup><br>
 
-### 17. Write a program that accepts a number from a user and prints the factorial of that number
+### 17. Write a program that accepts a number from a user and prints the factorial of that number.
 
 > (the program should find factorial till 20)
 > <sup> [Language:C Author:raporaz03](/Basic/code/problem_17.c)</sup><br>
