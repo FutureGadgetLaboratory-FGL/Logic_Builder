@@ -212,3 +212,5 @@ A B C D
 ### 57. Implementation of the TRIE data structure to store strings.
 
 ### 58. Implementation of the TRIE data structure to store non-negative integers.
+
+### 59. Number of Pairs ( https://codeforces.com/contest/134/problem/B )
