@@ -100,7 +100,7 @@
 
 ### 20. Write a program to print the reverse of a number.
 
-### 21. Write a program to input side of a square and print the perimeter of the square. perimeter of square = 4\*side
+### 21. Write a program to input the side of a square and print the perimeter of the square. perimeter of square = 4\*side
 
 ### 22. Write a program to input length, breadth and height and output the volume of the cuboid. volume of a cuboid = length*breadth*height
 
