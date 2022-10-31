@@ -102,7 +102,7 @@ D E F
 G H I J
 ```
 
-### 24. Display the pattern below
+### 24. Display the pattern below:
 
 ```html
 A
