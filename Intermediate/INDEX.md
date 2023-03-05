@@ -102,7 +102,7 @@ D E F
 G H I J
 ```
 
-### 24. Display the pattern below
+### 24. Display the pattern below:
 
 ```html
 A
@@ -207,4 +207,10 @@ A B C D
 
 ### 55. [Jump Game](https://leetcode.com/problems/jump-game/)
 
-### 56.[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+### 56. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+
+### 57. Implementation of the TRIE data structure to store strings.
+
+### 58. Implementation of the TRIE data structure to store non-negative integers.
+
+### 59. Number of Pairs ( https://codeforces.com/contest/134/problem/B )

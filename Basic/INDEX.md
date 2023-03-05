@@ -13,7 +13,7 @@
 <sup> [Language:Java Author:Bhavya Kishor Gatya](/Basic/code/problem_2.java)</sup><br>
 
 
-### 3. Write a program to input length and breadth and print the area of the rectangle. Area of a rectangle = length\*breadth
+### 3. Write a program to input the length and breadth and print the area of the rectangle. Area of a rectangle = length\*breadth
 
 <sup> [Language:C Author:glitchy-coder-exe](/Basic/code/problem_3.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_3.py)</sup><br>
@@ -30,7 +30,7 @@
 
 
 
-### 5. Write a program to input radius and print the area and circumference of circle. Area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
+### 5. Write a program to input the radius and print the area and circumference of circle. Area of a circle = 3.14\*radius\*radius and circumference of circle = 2\*3.14\*radius
 
 <sup> [Language:C Author:hypernovaradiation](/Basic/code/problem_5.c)</sup><br>
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_5.py)</sup><br>
@@ -47,7 +47,7 @@
 > hra is 10% of bs. <br>
 > <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_7.py)</sup><br>
 
-### 8. Write a program to input temperature in Fahrenheit and print it in Celsius format. fahrenheit = (celsius \* 9/5) + 32
+### 8. Write a program to input the temperature in Fahrenheit and print it in Celsius format. fahrenheit = (celsius \* 9/5) + 32
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_8.py)</sup><br>
 
@@ -84,7 +84,7 @@
 
 <sup> [Language:Python Author:Nitin Kumar](/Basic/code/problem_16.py)</sup><br>
 
-### 17. Write a program that accepts a number from a user and prints the factorial of that number
+### 17. Write a program that accepts a number from a user and prints the factorial of that number.
 
 > (the program should find factorial till 20)
 > <sup> [Language:C Author:raporaz03](/Basic/code/problem_17.c)</sup><br>
@@ -100,7 +100,7 @@
 
 ### 20. Write a program to print the reverse of a number.
 
-### 21. Write a program to input side of a square and print the perimeter of the square. perimeter of square = 4\*side
+### 21. Write a program to input the side of a square and print the perimeter of the square. perimeter of square = 4\*side
 
 ### 22. Write a program to input length, breadth and height and output the volume of the cuboid. volume of a cuboid = length*breadth*height
 
@@ -161,9 +161,9 @@
 
 ### 36. Write a program to print the surface area of a cuboid. surface area of cuboid = 2\*(l\*b+b\*h+h\*l) where l is the length, b is the breadth and h is the height.
 
-### 37. Write a program to print the first 10 Fibonacci numbers without recursion
+### 37. Write a program to print the first 10 Fibonacci numbers without recursion.
 
-### 38. Write a program to find the maximum and minimum element in an array
+### 38. Write a program to find the maximum and minimum element in an array.
 
 ### 39. Write a program to find whether a number is prime or composite .
 
@@ -189,7 +189,7 @@
 
 ### 50. Write a program to check whether a number is perfect or not.
 
-### 51. Write a program to print the following pattern
+### 51. Write a program to print the following pattern:
  ```html
    1 1 1 1 1
    1       1
@@ -253,8 +253,12 @@
 
 ### 61. Write a program to find the third angle of a triangle.
 
-### 62. Write a program to print Pascal's Triangle
+### 62. Write a program to print Pascal's Triangle.
 
 ### 63. Topological Sort: Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge u v, vertex u comes before v in the ordering.
 
-### 64. Find the Length of Last Word in a Sentence/String
+### 64. Write  a program to find the Length of Last Word in a Sentence/String.
+
+### 65. Write a program to create a circular linked list.
+
+### 66. Write a program to print a circular linked list.
