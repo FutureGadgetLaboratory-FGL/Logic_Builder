@@ -94,3 +94,6 @@
 
 ### 43. Find Longest Palindromic Substring
 
+### 44. Print a number 100 times without using loop, recursion and macro expansion in C?
+
+
