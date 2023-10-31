@@ -214,3 +214,5 @@ A B C D
 ### 58. Implementation of the TRIE data structure to store non-negative integers.
 
 ### 59. Number of Pairs ( https://codeforces.com/contest/134/problem/B )
+
+### 60. Given a set of non-negative integers and a value sum, the task is to check if there is a subset of the given set whose sum is equal to the given sum.
