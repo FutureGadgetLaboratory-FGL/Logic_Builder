@@ -219,3 +219,18 @@ A B C D
 
 ### 61. Given N items where each item has some weight and profit associated with it and also given a bag with capacity W, [i.e., the bag can hold at most W weight in it]. The task is to put the items into the bag such that the sum of profits associated with them is the maximum possible.
 Note: The constraint here is we can either put an item completely into the bag or cannot put it at all [It is not possible to put a part of an item into the bag].
+
+### 62. Let 1 represent ‘A’, 2 represents ‘B’, etc. Given a digit sequence, count the number of possible decodings of the given digit sequence. 
+<details>
+<summary>
+<b>Examples</b> 
+</summary> 
+
+Input:  digits[] = "121"</br>
+Output: 3</br>
+// The possible decodings are "ABA", "AU", "LA"</br>
+
+Input: digits[] = "1234"</br>
+Output: 3</br>
+// The possible decodings are "ABCD", "LCD", "AWD"</br>
+</details>
